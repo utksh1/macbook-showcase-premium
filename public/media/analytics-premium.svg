@@ -1,0 +1,45 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="238" y1="122" x2="1496" y2="950" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07131B"/>
+      <stop offset="0.45" stop-color="#0E1C28"/>
+      <stop offset="1" stop-color="#081014"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#7DD3FC"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#5EEAD4"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" rx="52" fill="url(#bg)"/>
+  <rect x="54" y="54" width="1492" height="892" rx="42" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)"/>
+  <text x="120" y="168" fill="#D7EDF8" font-size="24" font-family="Manrope, Arial, sans-serif" letter-spacing="5">FUTURE SIGNAL / 03</text>
+  <text x="120" y="286" fill="#F2FCFF" font-size="92" font-family="Manrope, Arial, sans-serif" font-weight="800">See every signal</text>
+  <text x="120" y="360" fill="#F2FCFF" font-size="92" font-family="Instrument Serif, Georgia, serif">before it arrives.</text>
+  <text x="124" y="430" fill="#9AB2C0" font-size="28" font-family="Manrope, Arial, sans-serif">Futuristic analytics with calm hierarchy, deep contrast, and</text>
+  <text x="124" y="470" fill="#9AB2C0" font-size="28" font-family="Manrope, Arial, sans-serif">elegant motion crafted for premium software launches.</text>
+  <rect x="110" y="560" width="560" height="286" rx="34" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)"/>
+  <rect x="714" y="142" width="718" height="704" rx="38" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.08)"/>
+  <text x="154" y="626" fill="#E1F7FF" font-size="24" font-family="Manrope, Arial, sans-serif">Detection matrix</text>
+  <text x="154" y="700" fill="#E1F7FF" font-size="72" font-family="Manrope, Arial, sans-serif" font-weight="800">128</text>
+  <text x="154" y="746" fill="#7DD3FC" font-size="24" font-family="Manrope, Arial, sans-serif">high-value alerts prioritized</text>
+  <g opacity="0.95">
+    <path d="M780 684C836 616 894 632 950 566C1006 500 1064 358 1120 320C1176 282 1234 330 1290 266C1327 224 1356 210 1382 216" stroke="url(#cyan)" stroke-width="10" stroke-linecap="round"/>
+    <path d="M780 738C836 670 894 686 950 620C1006 554 1064 412 1120 374C1176 336 1234 384 1290 320C1327 278 1356 264 1382 270" stroke="url(#green)" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <g fill="#D9F5FF" font-family="Manrope, Arial, sans-serif">
+    <text x="780" y="230" font-size="28">Predictive waveforms</text>
+    <text x="780" y="278" fill="#7D93A1" font-size="20">Realtime visibility across campaigns, launches, and secure infrastructure.</text>
+    <text x="780" y="830" font-size="22">Prepared for launch day</text>
+    <text x="1206" y="830" font-size="68" font-weight="800">99.2%</text>
+  </g>
+  <g opacity="0.8">
+    <rect x="780" y="352" width="580" height="14" rx="7" fill="rgba(255,255,255,0.06)"/>
+    <rect x="780" y="352" width="366" height="14" rx="7" fill="url(#cyan)"/>
+    <rect x="780" y="396" width="516" height="14" rx="7" fill="rgba(255,255,255,0.06)"/>
+    <rect x="780" y="396" width="446" height="14" rx="7" fill="url(#green)"/>
+  </g>
+</svg>

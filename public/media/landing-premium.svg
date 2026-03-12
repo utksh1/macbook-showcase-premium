@@ -1,0 +1,40 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="118" y1="78" x2="1468" y2="930" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#120B15"/>
+      <stop offset="0.5" stop-color="#19101D"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1126 246) rotate(113.512) scale(424.311 627.76)">
+      <stop stop-color="#F97316"/>
+      <stop offset="1" stop-color="#F97316" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(392 802) rotate(25.2844) scale(470.212 386.55)">
+      <stop stop-color="#FB7185"/>
+      <stop offset="1" stop-color="#FB7185" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="1000" rx="52" fill="url(#bg)"/>
+  <circle cx="1138" cy="262" r="300" fill="url(#glowA)"/>
+  <circle cx="398" cy="786" r="270" fill="url(#glowB)"/>
+  <rect x="54" y="54" width="1492" height="892" rx="42" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)"/>
+  <text x="132" y="172" fill="#FFE7D4" font-size="24" font-family="Manrope, Arial, sans-serif" letter-spacing="6">LUXE SYSTEMS</text>
+  <text x="132" y="300" fill="#FFF7F1" font-size="106" font-family="Instrument Serif, Georgia, serif">Reveal the</text>
+  <text x="132" y="394" fill="#FFF7F1" font-size="106" font-family="Manrope, Arial, sans-serif" font-weight="800">future in motion.</text>
+  <text x="136" y="462" fill="#C6B6A9" font-size="28" font-family="Manrope, Arial, sans-serif">A premium landing experience for high-end launches, immersive demos,</text>
+  <text x="136" y="504" fill="#C6B6A9" font-size="28" font-family="Manrope, Arial, sans-serif">and cinematic interfaces designed for modern product teams.</text>
+  <rect x="136" y="576" width="196" height="62" rx="31" fill="#FFF3E8"/>
+  <rect x="352" y="576" width="186" height="62" rx="31" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.16)"/>
+  <text x="182" y="615" fill="#1F140F" font-size="22" font-family="Manrope, Arial, sans-serif" font-weight="700">Book reveal</text>
+  <text x="405" y="615" fill="#F5D7C3" font-size="22" font-family="Manrope, Arial, sans-serif">See details</text>
+  <rect x="930" y="164" width="486" height="658" rx="36" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.1)"/>
+  <rect x="976" y="210" width="394" height="252" rx="28" fill="rgba(255,255,255,0.08)"/>
+  <rect x="976" y="500" width="182" height="118" rx="28" fill="rgba(255,255,255,0.08)"/>
+  <rect x="1188" y="500" width="182" height="118" rx="28" fill="rgba(255,255,255,0.08)"/>
+  <rect x="976" y="648" width="394" height="128" rx="28" fill="rgba(255,255,255,0.08)"/>
+  <text x="1012" y="570" fill="#FCE7D7" font-size="22" font-family="Manrope, Arial, sans-serif">Spatial launch</text>
+  <text x="1218" y="570" fill="#FCE7D7" font-size="22" font-family="Manrope, Arial, sans-serif">Visual system</text>
+  <text x="1012" y="720" fill="#FCE7D7" font-size="32" font-family="Manrope, Arial, sans-serif" font-weight="700">Hero sections crafted for attention, confidence, and momentum.</text>
+  <path d="M1014 324C1086 256 1160 248 1234 302C1269 328 1295 352 1344 352" stroke="#FFD6B8" stroke-width="8" stroke-linecap="round"/>
+  <path d="M1008 382C1080 314 1154 306 1228 360C1263 386 1289 410 1338 410" stroke="rgba(255,255,255,0.24)" stroke-width="2" stroke-linecap="round"/>
+</svg>
